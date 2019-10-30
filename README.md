@@ -9,7 +9,6 @@ Slides Links
 
 
 
-- [Workshop #3: Vectorization]
-(https://colab.research.google.com/drive/1YItjct9EjithCk_wJTn4MrSmZPVNjwJB)
+- [Workshop #3: Vectorization](https://colab.research.google.com/drive/1YItjct9EjithCk_wJTn4MrSmZPVNjwJB)
 
 
