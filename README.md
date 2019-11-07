@@ -10,6 +10,7 @@ Slides Links
 
 
 - [Workshop #3: Vectorization](https://colab.research.google.com/drive/1YItjct9EjithCk_wJTn4MrSmZPVNjwJB)
+- [Workshop #3: Linear Regression Code](https://github.com/uclaacmai/beginner-track-spring19/blob/master/Workshop%203/Predicting_House_Prices.ipynb)
 - [Workshop #4: Intro to Logistic Regression](https://drive.google.com/open?id=1tCUGcUWj6Yzv7skkMX_xEzn_Le1GE0lM)
 
 
