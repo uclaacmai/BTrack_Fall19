@@ -10,5 +10,8 @@ Slides Links
 
 
 - [Workshop #3: Vectorization](https://colab.research.google.com/drive/1YItjct9EjithCk_wJTn4MrSmZPVNjwJB)
+- [Workshop #4: Intro to Logistic Regression](https://drive.google.com/open?id=1tCUGcUWj6Yzv7skkMX_xEzn_Le1GE0lM)
+
+
 
 
