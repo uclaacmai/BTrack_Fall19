@@ -14,7 +14,7 @@ Links to Slides & Code
 - [Workshop #4: Intro to Logistic Regression](https://drive.google.com/open?id=1tCUGcUWj6Yzv7skkMX_xEzn_Le1GE0lM)
 - [Workshop #5: Logistic Regression (Code)](https://drive.google.com/open?id=18k-xQ5lEJRMQW8Mwzcy_Wyr42_eDXAiF)
 - [Workshop #5 Code: Logistic Regression](https://drive.google.com/file/d/1GxhaMlAL-o9EhW6Hr64Tl7LGcTc0ejVS/view?usp=sharing)
-
+- [Workshop #6 Code: Introduction to Neural Networks](https://drive.google.com/file/d/1YI6G4XRkKiiHBYYo9E1rcEZHJY4KKG9E/view?usp=sharing)
 
 
 
